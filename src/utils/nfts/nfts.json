@@ -396,3 +396,26 @@
     "type": "IMAGE"
   }
 ]
+
+{
+  "img": "https://gateway.pinata.cloud/ipfs/QmSRakHzfwnLY3SwCzbnNovFhT7wdUxmCgADJwRGDjbTrA/ReScript%20NFT.JPG",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmPbX11FWP7FNeKXhbfK3hagJmt1K7YZvEeKGr538k76Bg/ReScript%20NFT.jpg",
+  "name": "ReScript Wall Street Cheat Sheet Smart Infographic on Mouse Over!",
+  "supply": 1,
+  "mintAddress": "7ecDZnG5yuvxFqwTaBD5VzvWRN2tDY9zBfnhNZTZerMd",
+  "marketAddress": "HMhF5LyUsUsiDHyANfPfgzp4dnksrJSnZQBnGLFuQcj6",
+  "redeembable": false,
+  "keywords": [
+    "ReScript",
+    "Wall",
+    "Street",
+    "Cheat",
+    "Sheet",
+    "Smart",
+    "Infographic",
+    "on",
+    "Mouse",
+    "Over!"
+  ],
+  "type": "IMAGE"
+}
